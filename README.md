@@ -1,4 +1,4 @@
-**Note:** This is a **Assessment**
+**Note:** This is an **Assessment**
 
 Movies Android Application
 =========================
