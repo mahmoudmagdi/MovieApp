@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Movie Test</string>
+
+    <string name="please_check_your_internet_connection">Please, check your internet connection.</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="refresh">Refresh</string>
+    <string name="story">Story</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="suitable_for_children">Suitable For Children</string>
+    <string name="this_movie_suitable_for_adults_only">This movie is suitable for adults only.</string>
+    <string name="release_date">Release Date:</string>
+    <string name="chose_dates">Chose Dates:</string>
+    <string name="done">Done</string>
+</resources>
